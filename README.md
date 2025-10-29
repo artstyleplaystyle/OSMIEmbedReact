@@ -1,21 +1,21 @@
 <!-- markdownlint-disable MD030 -->
 
-# Flowise Embed React
+# OSMI AI Embed React
 
-React library to display flowise chatbot on your website
+React library to display OSMI AI chatbot on your website
 
-![Flowise](https://github.com/FlowiseAI/FlowiseChatEmbed/blob/main/images/ChatEmbed.gif?raw=true)
+![OSMI AI](https://github.com/artstyleplaystyle/OSMIChatEmbed/blob/main/images/ChatEmbed.gif?raw=true)
 
 ## Install
 
 ```bash
-npm install flowise-embed flowise-embed-react
+npm install osmi-ai-embed osmi-ai-embed-react
 ```
 
 or
 
 ```bash
-yarn add flowise-embed flowise-embed-react
+yarn add osmi-ai-embed osmi-ai-embed-react
 ```
 
 ## Import
@@ -23,7 +23,7 @@ yarn add flowise-embed flowise-embed-react
 Full Page Chat
 
 ```tsx
-import { FullPageChat } from "flowise-embed-react";
+import { FullPageChat } from "osmi-ai-embed-react";
 
 const App = () => {
   return (
@@ -38,7 +38,7 @@ const App = () => {
 Popup Chat
 
 ```tsx
-import { BubbleChat } from "flowise-embed-react";
+import { BubbleChat } from "osmi-ai-embed-react";
 
 const App = () => {
   return (
